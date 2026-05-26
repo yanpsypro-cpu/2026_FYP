@@ -20,12 +20,20 @@ Final Year Project analysing the impact of COVID-19 on crime patterns across Chi
 
 ## Data Sources
 
-- [Chicago Crime Data (2001–present)](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
+[- [Chicago Crime Data (2001–present)](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
 - [Community Area Boundaries (GeoJSON)](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6)
 - [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) — Cook County, Illinois
 - [Chicago COVID-19 Daily Cases](https://data.cityofchicago.org/Health-Human-Services/COVID-19-Daily-Cases-Deaths-and-Hospitalizations-H/naz8-j4nc)
 - [BLS Unemployment Data](https://www.bls.gov/lau/) — Chicago-Naperville-Elgin MSA
+](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 
+https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6
+
+https://www.google.com/covid19/mobility/
+
+https://data.cityofchicago.org/Health-Human-Services/COVID-19-Daily-Cases-Deaths-and-Hospitalizations-H/naz8-j4nc
+
+https://www.bls.gov/lau/)
 ## Setup
 
 Python 3.10+
